@@ -2,13 +2,13 @@
 
 ## Linux
 
-[Linux 学习记录](https://www.yuque.com/jingnanshanxue/gyhymi/royh90am20a8x92f)
+https://www.yuque.com/g/jingnanshanxue/gyhymi/royh90am20a8x92f/collaborator/join?token=bqPXQKPHnVUVEZ2o&source=doc_collaborator# 《Linux学习记录》
 
 ## Git
 
-[Git 学习记录](https://www.yuque.com/jingnanshanxue/gyhymi/hcugyq22kml0kplc)
+https://www.yuque.com/g/jingnanshanxue/gyhymi/hcugyq22kml0kplc/collaborator/join?token=S56z4xip4SVmVzHW&source=doc_collaborator# 《git学习记录》
 
-[Git 实践记录](https://www.yuque.com/jingnanshanxue/gyhymi/dzc43st64oyw2tx8)
+https://www.yuque.com/g/jingnanshanxue/gyhymi/dzc43st64oyw2tx8/collaborator/join?token=juMh75o54hIwpVNH&source=doc_collaborator# 《git实践》
 
 ## C++ 计算器
 
