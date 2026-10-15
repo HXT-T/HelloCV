@@ -110,7 +110,6 @@ cmake --build UnitConverter/build
 
 ### Part B｜LLM
 
-**状态：待完成**
 
 #### 1. 学习内容
 
