@@ -1,9 +1,5 @@
 # HelloCV
 
-哈工大（威海）创新平台培训学习与实践仓库。
-
-记录 Linux、Git、CMake 及 LLM 等技术的学习过程、实践项目与阶段性成果。
-
 ## Task 01｜Linux & Git
 
 **主题：Linux 开发环境与 Git 版本控制**
@@ -143,6 +139,3 @@ cmake --build UnitConverter/build
 
 ---
 
-## 学习总结
-
-本仓库按照培训阶段持续更新，重点记录从基础环境搭建、版本控制到工程构建和 AI 应用开发的完整实践过程。
