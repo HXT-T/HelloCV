@@ -71,7 +71,7 @@ def strip_code_fence(text: str) -> str:
     目标：``tests/test_json_guard.py`` 里的 5 个 ``test_strip_code_fence_*`` 通过。
     """
 
-def strip_code_fence(text: str) -> str:
+
     parts = text.split("```")
 
     if len(parts) == 1:
@@ -117,7 +117,7 @@ def find_first_json_object(text: str) -> Optional[str]:
     目标：``tests/test_json_guard.py`` 里的 6 个 ``test_find_first_json_object_*`` 通过。
     """
 
-def find_first_json_object(text: str) -> Optional[str]:
+
     for start in range(len(text)):
         if text[start] != "{":
             continue
@@ -282,7 +282,7 @@ def repair_json_text(text: str) -> str:
     目标：``tests/test_json_guard.py`` 里的 9 个 ``test_repair_*`` 通过。
     """
 
-def repair_json_text(text: str) -> str:
+
     # 1. 删除注释和首尾空白
     text = _strip_comments(text).strip()
 
